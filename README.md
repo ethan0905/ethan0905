@@ -1,5 +1,8 @@
 Heyy there 👋
 
+## Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ethan0905)
+
 ## 📟 GitHub Stats  
 <p align="center">
 	<img width="50%" src="https://github-readme-stats.vercel.app/api?username=ethan0905&show_icons=true&theme=dark" />
