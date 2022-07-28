@@ -26,7 +26,7 @@
 	</a>
 </p>
 
-## Streak
+## ⭐ Streak
 
 <p align="center">
 	<a href="https://git.io/streak-stats">
