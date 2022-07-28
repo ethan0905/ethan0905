@@ -12,7 +12,7 @@ Heyy there 👋
 </p>
 
 <p align="center">
-	<a>
+	<a href="https://linkedin.com/in/ethan-safar">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 	</a>
 </p>
