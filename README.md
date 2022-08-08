@@ -83,13 +83,13 @@
 	<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl6l739qg00490gialxmtgsrk/project/2464719" alt="esafar's 42 Exam Rank 03 Score" /></a>
 	</h2>
 	<h2>Libunit:
-	<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl6l739qg00490gialxmtgsrk/project/2392663" alt="esafar's 42 so_long Score" /></a>
+	<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl6l739qg00490gialxmtgsrk/project/2451964" alt="esafar's 42 Libunit Score" /></a>
 	</h2>
 	<h2>exam_rank_02:
-	<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl6l739qg00490gialxmtgsrk/project/2392663" alt="esafar's 42 so_long Score" /></a>
+	<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl6l739qg00490gialxmtgsrk/project/2399657" alt="esafar's 42 Exam Rank 02 Score" /></a>
 	</h2>
 	<h2>pipex:
-	<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl6l739qg00490gialxmtgsrk/project/2392663" alt="esafar's 42 so_long Score" /></a>
+	<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl6l739qg00490gialxmtgsrk/project/2440740" alt="esafar's 42 pipex Score" /></a>
 	</h2>
 	<h2>so_long:
 	<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl6l739qg00490gialxmtgsrk/project/2392663" alt="esafar's 42 so_long Score" /></a>
