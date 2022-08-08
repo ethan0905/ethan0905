@@ -33,3 +33,6 @@
 		<img width="50%" src="http://github-readme-streak-stats.herokuapp.com?user=ethan0905&theme=highcontrast&date_format=j%20M%5B%20Y%5D">
 	</a>
 </p>
+
+[![esafar's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl6l739qg00490gialxmtgsrk/project/2346756)](https://github.com/JaeSeoKim/badge42)
+
