@@ -39,6 +39,8 @@
 	</a>
 </p>
 
+## :white_check_mark: 42 Grades (newest on top)
+
 <p>
 	<h3>CPP-Module-05:
 	<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl6l739qg00490gialxmtgsrk/project/2700616" alt="esafar's 42 CPP Module 05 Score" /></a>
