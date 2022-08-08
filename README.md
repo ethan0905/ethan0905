@@ -7,7 +7,12 @@
 	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=FF073B&center=true&lines=Full+Stack+Web+Developer;Experienced+In+UI%2FUX+Designer;Interested+in+Blockchain+Techology" alt="Typing SVG" />
 	</a>
 </p>
-	
+
+## 42 Stats
+<p align="center">
+	<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl6l739qg00490gialxmtgsrk/stats?cursusId=21&coalitionId=45" alt="esafar's 42 stats" /></a>
+</p>
+
 ## 📟 GitHub Stats  
 <p align="center">
 	<img width="50%" src="https://github-readme-stats.vercel.app/api?username=ethan0905&show_icons=true&theme=dark" />
