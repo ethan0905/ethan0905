@@ -39,5 +39,7 @@
 	</a>
 </p>
 
-[![esafar's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl6l739qg00490gialxmtgsrk/project/2346756)](https://github.com/JaeSeoKim/badge42)
-
+<p>
+	<div>Libft: </div>
+	<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl6l739qg00490gialxmtgsrk/project/2177512" alt="esafar's 42 Libft Score" /></a>
+</p>
