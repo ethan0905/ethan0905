@@ -40,7 +40,7 @@
 </p>
 
 <p>
-	<h1>Libft:
+	<h2>Libft:
 	<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl6l739qg00490gialxmtgsrk/project/2177512" alt="esafar's 42 Libft Score" /></a>
-	</h1>
+	</h2>
 </p>
