@@ -40,76 +40,76 @@
 </p>
 
 <p>
-	<h2>CPP-Module-05:
+	<h3>CPP-Module-05:
 	<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl6l739qg00490gialxmtgsrk/project/2700616" alt="esafar's 42 CPP Module 05 Score" /></a>
-	</h2>
-	<h2>CPP-Module-04:
+	</h3>
+	<h3>CPP-Module-04:
 	<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl6l739qg00490gialxmtgsrk/project/2695137" alt="esafar's 42 CPP Module 03 Score" /></a>
-	</h2>
-	<h2>CPP-Module-03:
+	</h3>
+	<h3>CPP-Module-03:
 	<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl6l739qg00490gialxmtgsrk/project/2695137" alt="esafar's 42 CPP Module 03 Score" /></a>
-	</h2>
-	<h2>CPP-Module-02:
+	</h3>
+	<h3>CPP-Module-02:
 	<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl6l739qg00490gialxmtgsrk/project/2693505" alt="esafar's 42 CPP Module 02 Score" /></a>
-	</h2>
-	<h2>CPP-Module-01:
+	</h3>
+	<h3>CPP-Module-01:
 	<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl6l739qg00490gialxmtgsrk/project/2693159" alt="esafar's 42 CPP Module 01 Score" /></a>
-	</h2>
-	<h2>CPP-Module-00:
+	</h3>
+	<h3>CPP-Module-00:
 	<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl6l739qg00490gialxmtgsrk/project/2639017" alt="esafar's 42 CPP Module 00 Score" /></a>
-	</h2>
-	<h2>cub3d:
+	</h3>
+	<h3>cub3d:
 	<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl6l739qg00490gialxmtgsrk/project/2633262" alt="esafar's 42 cub3d Score" /></a>
-	</h2>
-	<h2>Rushes:
+	</h3>
+	<h3>Rushes:
 	<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl6l739qg00490gialxmtgsrk/project/2433140" alt="esafar's 42 Rushes Score" /></a>
-	</h2>
-	<h2>exam_rank_04:
+	</h3>
+	<h3>exam_rank_04:
 	<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl6l739qg00490gialxmtgsrk/project/2605421" alt="esafar's 42 Exam Rank 04 Score" /></a>
-	</h2>
-	<h2>NetPractice:
+	</h3>
+	<h3>NetPractice:
 	<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl6l739qg00490gialxmtgsrk/project/2626347" alt="esafar's 42 NetPractice Score" /></a>
-	</h2>
-	<h2>minishell:
+	</h3>
+	<h3>minishell:
 	<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl6l739qg00490gialxmtgsrk/project/2490871" alt="esafar's 42 minishell Score" /></a>
-	</h2>
-	<h2>AlCu:
+	</h3>
+	<h3>AlCu:
 	<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl6l739qg00490gialxmtgsrk/project/2493321" alt="esafar's 42 AlCu Score" /></a>
-	</h2>
-	<h2>Philosophers:
+	</h3>
+	<h3>Philosophers:
 	<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl6l739qg00490gialxmtgsrk/project/2464664" alt="esafar's 42 Philosophers Score" /></a>
-	</h2>
-	<h2>exam_rank_03:
+	</h3>
+	<h3>exam_rank_03:
 	<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl6l739qg00490gialxmtgsrk/project/2464719" alt="esafar's 42 Exam Rank 03 Score" /></a>
-	</h2>
-	<h2>Libunit:
+	</h3>
+	<h3>Libunit:
 	<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl6l739qg00490gialxmtgsrk/project/2451964" alt="esafar's 42 Libunit Score" /></a>
-	</h2>
-	<h2>exam_rank_02:
+	</h3>
+	<h3>exam_rank_02:
 	<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl6l739qg00490gialxmtgsrk/project/2399657" alt="esafar's 42 Exam Rank 02 Score" /></a>
-	</h2>
-	<h2>pipex:
+	</h3>
+	<h3>pipex:
 	<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl6l739qg00490gialxmtgsrk/project/2440740" alt="esafar's 42 pipex Score" /></a>
-	</h2>
-	<h2>so_long:
+	</h3>
+	<h3>so_long:
 	<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl6l739qg00490gialxmtgsrk/project/2392663" alt="esafar's 42 so_long Score" /></a>
-	</h2>
-	<h2>Hotrace:
+	</h3>
+	<h3>Hotrace:
 	<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl6l739qg00490gialxmtgsrk/project/2433142" alt="esafar's 42 Hotrace Score" /></a>
-	</h2>
-	<h2>push_swap:
+	</h3>
+	<h3>push_swap:
 	<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl6l739qg00490gialxmtgsrk/project/2346756" alt="esafar's 42 push_swap Score" /></a>
-	</h2>
-	<h2>ft_printf:
+	</h3>
+	<h3>ft_printf:
 	<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl6l739qg00490gialxmtgsrk/project/2244897" alt="esafar's 42 ft_printf Score" /></a>
-	</h2>
-	<h2>Born2BeRoot:
+	</h3>
+	<h3>Born2BeRoot:
 	<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl6l739qg00490gialxmtgsrk/project/2202762" alt="esafar's 42 Born2beroot Score" /></a>
-	</h2>
-	<h2>get_next_line:
+	</h3>
+	<h3>get_next_line:
 	<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl6l739qg00490gialxmtgsrk/project/2191489" alt="esafar's 42 get_next_line Score" /></a>
-	</h2>
-	<h2>Libft:
+	</h3>
+	<h3>Libft:
 	<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl6l739qg00490gialxmtgsrk/project/2177512" alt="esafar's 42 Libft Score" /></a>
-	</h2>
+	</h3>
 </p>
