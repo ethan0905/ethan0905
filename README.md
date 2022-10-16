@@ -41,6 +41,19 @@
 
 ## :white_check_mark: 42 Grades (newest on top)
 
+
+| **[Libft](https://github.com/rbiodies/libft)** | <img src="https://badge42.vercel.app/api/v2/cl1lzvgei001109josyi61e97/project/2364362"/> | **[Get Next Line](https://github.com/rbiodies/get_next_line)** | <img src="https://badge42.vercel.app/api/v2/cl1lzvgei001109josyi61e97/project/2380194"/> |
+| :------------: | :------------: | :------------: | :------------: |
+| **[Born2beRoot]()** | <img src="https://badge42.vercel.app/api/v2/cl1lzvgei001109josyi61e97/project/2380195"/> | **[Exam Rank 02]()** | <img src="https://badge42.vercel.app/api/v2/cl1lzvgei001109josyi61e97/project/2398619"/> |
+| **[Printf](https://github.com/rbiodies/ft_printf)** | <img src="https://badge42.vercel.app/api/v2/cl1lzvgei001109josyi61e97/project/2380197"/> | **[Pipex](https://github.com/rbiodies/pipex)** | <img src="https://badge42.vercel.app/api/v2/cl1lzvgei001109josyi61e97/project/2400409"/> | 
+| **[Push Swap](https://github.com/rbiodies/push_swap)** | <img src="https://badge42.vercel.app/api/v2/cl1lzvgei001109josyi61e97/project/2401452"/> | **[So Long](https://github.com/rbiodies/so_long)** | <img src="https://badge42.vercel.app/api/v2/cl1lzvgei001109josyi61e97/project/2402653"/> | 
+| **[Exam Rank 03](https://github.com/rbiodies/examrank-03)** | <img src="https://badge42.vercel.app/api/v2/cl1lzvgei001109josyi61e97/project/2422780"/> | **[Philosophers](https://github.com/rbiodies/philosophers)** | <img src="https://badge42.vercel.app/api/v2/cl1lzvgei001109josyi61e97/project/2422781"/> |
+| **[Minishell](https://github.com/rbiodies/minishell)** | <img src="https://badge42.vercel.app/api/v2/cl1lzvgei001109josyi61e97/project/2422782"/> | **[NetPractice](https://github.com/rbiodies/NetPractice)** | <img src="https://badge42.vercel.app/api/v2/cl1lzvgei001109josyi61e97/project/2518729"/> |
+| **[Exam Rank 04](https://github.com/rbiodies/examrank-04)** | <img src="https://badge42.vercel.app/api/v2/cl1lzvgei001109josyi61e97/project/2519789"/> | **[Cub3D](https://github.com/rbiodies/cub3d)** | <img src="https://badge42.vercel.app/api/v2/cl1lzvgei001109josyi61e97/project/2545496"/> |
+| **[CPP Module 08](https://github.com/rbiodies/CPP_Modules)** | <img src="https://badge42.vercel.app/api/v2/cl1lzvgei001109josyi61e97/project/2543291"/> | **[Piscine Java](https://github.com/rbiodies/Piscine_Java)** | <img src="https://badge42.vercel.app/api/v2/cl1lzvgei001109josyi61e97/project/2563136"/> |
+| **[Exam Rank 05](https://github.com/rbiodies/examrank-05)** | <img src="https://badge42.vercel.app/api/v2/cl1lzvgei001109josyi61e97/project/2537523"/> | **[Inception](https://github.com/rbiodies/inception)** | <img src="https://badge42.vercel.app/api/v2/cl1lzvgei001109josyi61e97/project/2601654"/> |
+
+
 <p>
 	<h3>CPP-Module-05:
 	<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl6l739qg00490gialxmtgsrk/project/2700616" alt="esafar's 42 CPP Module 05 Score" /></a>
