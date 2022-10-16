@@ -70,7 +70,7 @@
 | **[CPP_Module_05](https://github.com/ethan0905/CPP-Module-05)** | <img src="https://badge42.vercel.app/api/v2/cl6l739qg00490gialxmtgsrk/project/2700616"/>
 | **[CPP_Module_06](https://github.com/ethan0905/CPP-Module-06)** | <img src="https://badge42.vercel.app/api/v2/cl1lzvgei001109josyi61e97/project/2543291"/> |
 | **[CPP_Module_07](https://github.com/ethan0905/CPP-Module-07)** | <img src="https://badge42.vercel.app/api/v2/cl1lzvgei001109josyi61e97/project/2543291"/>
-| **[CPP_Module_08](https://github.com/ethan0905/CPP-Module-08)** | <img src="https://badge42.vercel.app/api/v2/cl1lzvgei001109josyi61e97/project/2543291"/> |
+| **[CPP_Module_08](https://github.com/ethan0905/CPP-Module-08)** | <img src="https://badge42.vercel.app/api/v2/cl1lzvgei001109josyi61e97/project/2543291"/>
 <p>
 
 
