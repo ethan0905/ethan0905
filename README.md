@@ -41,7 +41,7 @@
 
 ## :white_check_mark: 42 Grades (newest on top)
 
-| **[Libft](https://github.com/ethan0905/Libft)** | <img src="https://badge42.vercel.app/api/v2/cl1lzvgei001109josyi61e97/project/2364362"/> | **[get_next_line](https://github.com/ethan0905/get_next_line)** | <img src="https://badge42.vercel.app/api/v2/cl6l739qg00490gialxmtgsrk/project/2191489"/> |
+| **[Libft](https://github.com/ethan0905/Libft)** | <img src="https://badge42.vercel.app/api/v2/cl6l739qg00490gialxmtgsrk/project/2177512"/> | **[get_next_line](https://github.com/ethan0905/get_next_line)** | <img src="https://badge42.vercel.app/api/v2/cl6l739qg00490gialxmtgsrk/project/2191489"/> |
 | :------------: | :------------: | :------------: | :------------: |
 | **[Born2beRoot]()** | <img src="https://badge42.vercel.app/api/v2/cl6l739qg00490gialxmtgsrk/project/2202762"/> | **[Exam Rank 02]()** | <img src="https://badge42.vercel.app/api/v2/cl6l739qg00490gialxmtgsrk/project/2399657"/> |
 | **[Printf](https://github.com/ethan0905/ft_printf)** | <img src="https://badge42.vercel.app/api/v2/cl6l739qg00490gialxmtgsrk/project/2244897"/> | **[pipex](https://github.com/ethan0905/pipex)** | <img src="https://badge42.vercel.app/api/v2/cl6l739qg00490gialxmtgsrk/project/2440740"/> | 
@@ -51,8 +51,6 @@
 | **[Exam Rank 04](https://github.com/ethan0905/examrank-04)** | <img src="https://badge42.vercel.app/api/v2/cl1lzvgei001109josyi61e97/project/2519789"/> | **[Cub3D](https://github.com/ethan0905/cub3d)** | <img src="https://badge42.vercel.app/api/v2/cl6l739qg00490gialxmtgsrk/project/2633262"/> |
 | **[CPP Module 08](https://github.com/ethan0905/CPP_Modules)** | <img src="https://badge42.vercel.app/api/v2/cl1lzvgei001109josyi61e97/project/2543291"/> | **[Piscine Java](https://github.com/ethan0905/Piscine_Java)** | <img src="https://badge42.vercel.app/api/v2/cl1lzvgei001109josyi61e97/project/2563136"/> |
 | **[Exam Rank 05](https://github.com/ethan0905/examrank-05)** | <img src="https://badge42.vercel.app/api/v2/cl1lzvgei001109josyi61e97/project/2537523"/> | **[Inception](https://github.com/ethan0905/inception)** | <img src="https://badge42.vercel.app/api/v2/cl1lzvgei001109josyi61e97/project/2601654"/> |
-
-
 <p>
 	<h3>CPP-Module-05:
 	<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl6l739qg00490gialxmtgsrk/project/2700616" alt="esafar's 42 CPP Module 05 Score" /></a>
