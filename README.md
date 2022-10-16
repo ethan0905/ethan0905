@@ -43,7 +43,6 @@
 
 
 
-
 | **[Libft](https://github.com/ethan0905/Libft)** | <img src="https://badge42.vercel.app/api/v2/cl6l739qg00490gialxmtgsrk/project/2177512"/> | **[get_next_line](https://github.com/ethan0905/get_next_line)** | <img src="https://badge42.vercel.app/api/v2/cl6l739qg00490gialxmtgsrk/project/2191489"/> |
 | :------------: | :------------: | :------------: | :------------: |
 | **[Born2beRoot]()** | <img src="https://badge42.vercel.app/api/v2/cl6l739qg00490gialxmtgsrk/project/2202762"/> | **[Exam Rank 02]()** | <img src="https://badge42.vercel.app/api/v2/cl6l739qg00490gialxmtgsrk/project/2399657"/> |
@@ -53,11 +52,11 @@
 | **[Minishell](https://github.com/ethan0905/minishell)** | <img src="https://badge42.vercel.app/api/v2/cl6l739qg00490gialxmtgsrk/project/2490871"/> | **[NetPractice](https://github.com/ethan0905/NetPractice)** | <img src="https://badge42.vercel.app/api/v2/cl6l739qg00490gialxmtgsrk/project/2626347"/> |
 | **[Exam Rank 04](https://github.com/ethan0905/examrank-04)** | <img src="https://badge42.vercel.app/api/v2/cl1lzvgei001109josyi61e97/project/2519789"/> | **[Cub3D](https://github.com/ethan0905/cub3d)** | <img src="https://badge42.vercel.app/api/v2/cl6l739qg00490gialxmtgsrk/project/2633262"/> |
 | **[CPP Module 08](https://github.com/ethan0905/CPP_Modules)** | <img src="https://badge42.vercel.app/api/v2/cl1lzvgei001109josyi61e97/project/2543291"/> | **[Piscine Java](https://github.com/ethan0905/Piscine_Java)** | <img src="https://badge42.vercel.app/api/v2/cl1lzvgei001109josyi61e97/project/2563136"/> |
-| **[Exam Rank 05](https://github.com/ethan0905/examrank-05)** | <img src="https://badge42.vercel.app/api/v2/cl1lzvgei001109josyi61e97/project/2537523"/> | **[Inception](https://github.com/ethan0905/inception)** | <img src="https://badge42.vercel.app/api/v2/cl1lzvgei001109josyi61e97/project/2601654"/> |
-| **[Exam Rank 05](https://github.com/ethan0905/examrank-05)** | <img src="https://badge42.vercel.app/api/v2/cl1lzvgei001109josyi61e97/project/2537523"/> | **[Inception](https://github.com/ethan0905/inception)** | <img src="https://badge42.vercel.app/api/v2/cl1lzvgei001109josyi61e97/project/2601654"/> |
-| **[Exam Rank 05](https://github.com/ethan0905/examrank-05)** | <img src="https://badge42.vercel.app/api/v2/cl1lzvgei001109josyi61e97/project/2537523"/> | **[Inception](https://github.com/ethan0905/inception)** | <img src="https://badge42.vercel.app/api/v2/cl1lzvgei001109josyi61e97/project/2601654"/> |
-| **[Exam Rank 05](https://github.com/ethan0905/examrank-05)** | <img src="https://badge42.vercel.app/api/v2/cl1lzvgei001109josyi61e97/project/2537523"/> | **[Inception](https://github.com/ethan0905/inception)** | <img src="https://badge42.vercel.app/api/v2/cl1lzvgei001109josyi61e97/project/2601654"/> |
-| **[Exam Rank 05](https://github.com/ethan0905/examrank-05)** | <img src="https://badge42.vercel.app/api/v2/cl1lzvgei001109josyi61e97/project/2537523"/> | **[Inception](https://github.com/ethan0905/inception)** | <img src="https://badge42.vercel.app/api/v2/cl1lzvgei001109josyi61e97/project/2601654"/> |
+| **[CPP-Module-00](https://github.com/ethan0905/CPP-Module-00)** | <img src="https://badge42.vercel.app/api/v2/cl6l739qg00490gialxmtgsrk/project/2639017"/> | **[CPP-Module-01](https://github.com/ethan0905/CPP-Module-01)** | <img src="https://badge42.vercel.app/api/v2/cl6l739qg00490gialxmtgsrk/project/2693159"/> |
+| **[CPP-Module-02](https://github.com/ethan0905/CPP-Module-02)** | <img src="https://badge42.vercel.app/api/v2/cl6l739qg00490gialxmtgsrk/project/2693505"/> | **[CPP-Module-00](https://github.com/ethan0905/CPP-Module-03)** | <img src="https://badge42.vercel.app/api/v2/cl6l739qg00490gialxmtgsrk/project/2695137"/> |
+| **[CPP-Module-04](https://github.com/ethan0905/CPP-Module-04)** | <img src="https://badge42.vercel.app/api/v2/cl6l739qg00490gialxmtgsrk/project/2695137"/> | **[CPP-Module-00](https://github.com/ethan0905/CPP-Module-05)** | <img src="https://badge42.vercel.app/api/v2/cl6l739qg00490gialxmtgsrk/project/2700616"/> |
+| **[CPP-Module-06](https://github.com/ethan0905/CPP-Module-06)** | <img src="https://badge42.vercel.app/api/v2/cl6l739qg00490gialxmtgsrk/project/2713844"/> | **[CPP-Module-00](https://github.com/ethan0905/CPP-Module-07)** | <img src="https://badge42.vercel.app/api/v2/cl6l739qg00490gialxmtgsrk/project/2714402"/> |
+| **[CPP-Module-08](https://github.com/ethan0905/CPP-Module-08)** | <img src="https://badge42.vercel.app/api/v2/cl6l739qg00490gialxmtgsrk/project/2714679"/> | **[exam_rank_04](https://github.com/ethan0905/exam_rank_04)** | <img src="https://badge42.vercel.app/api/v2/cl6l739qg00490gialxmtgsrk/project/2605421"/> |
 
 <p>
 
