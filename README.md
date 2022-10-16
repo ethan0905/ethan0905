@@ -41,12 +41,11 @@
 
 ## :white_check_mark: 42 Grades (newest on top)
 
-
-| **[Libft](https://github.com/ethan0905/Libft)** | <img src="https://badge42.vercel.app/api/v2/cl1lzvgei001109josyi61e97/project/2364362"/> | **[Get Next Line](https://github.com/ethan0905/get_next_line)** | <img src="https://badge42.vercel.app/api/v2/cl1lzvgei001109josyi61e97/project/2380194"/> |
+| **[Libft](https://github.com/ethan0905/Libft)** | <img src="https://badge42.vercel.app/api/v2/cl6l739qg00490gialxmtgsrk/project/2177512"/> | **[get_next_line](https://github.com/ethan0905/get_next_line)** | <img src="https://badge42.vercel.app/api/v2/cl1lzvgei001109josyi61e97/project/2380194"/> |
 | :------------: | :------------: | :------------: | :------------: |
 | **[Born2beRoot]()** | <img src="https://badge42.vercel.app/api/v2/cl1lzvgei001109josyi61e97/project/2380195"/> | **[Exam Rank 02]()** | <img src="https://badge42.vercel.app/api/v2/cl1lzvgei001109josyi61e97/project/2398619"/> |
 | **[Printf](https://github.com/ethan0905/ft_printf)** | <img src="https://badge42.vercel.app/api/v2/cl1lzvgei001109josyi61e97/project/2380197"/> | **[Pipex](https://github.com/ethan0905/pipex)** | <img src="https://badge42.vercel.app/api/v2/cl1lzvgei001109josyi61e97/project/2400409"/> | 
-| **[Push Swap](https://github.com/ethan0905/push_swap)** | <img src="https://badge42.vercel.app/api/v2/cl1lzvgei001109josyi61e97/project/2401452"/> | **[So Long](https://github.com/ethan0905/so_long)** | <img src="https://badge42.vercel.app/api/v2/cl1lzvgei001109josyi61e97/project/2402653"/> | 
+| **[Push Swap](https://github.com/ethan0905/push_swap)** | <img src="https://badge42.vercel.app/api/v2/cl1lzvgei001109josyi61e97/project/2401452"/> | **[so_long](https://github.com/ethan0905/so_long)** | <img src="https://badge42.vercel.app/api/v2/cl1lzvgei001109josyi61e97/project/2402653"/> | 
 | **[Exam Rank 03](https://github.com/ethan0905/examrank-03)** | <img src="https://badge42.vercel.app/api/v2/cl1lzvgei001109josyi61e97/project/2422780"/> | **[Philosophers](https://github.com/ethan0905/philosophers)** | <img src="https://badge42.vercel.app/api/v2/cl1lzvgei001109josyi61e97/project/2422781"/> |
 | **[Minishell](https://github.com/ethan0905/minishell)** | <img src="https://badge42.vercel.app/api/v2/cl1lzvgei001109josyi61e97/project/2422782"/> | **[NetPractice](https://github.com/ethan0905/NetPractice)** | <img src="https://badge42.vercel.app/api/v2/cl1lzvgei001109josyi61e97/project/2518729"/> |
 | **[Exam Rank 04](https://github.com/ethan0905/examrank-04)** | <img src="https://badge42.vercel.app/api/v2/cl1lzvgei001109josyi61e97/project/2519789"/> | **[Cub3D](https://github.com/ethan0905/cub3d)** | <img src="https://badge42.vercel.app/api/v2/cl1lzvgei001109josyi61e97/project/2545496"/> |
