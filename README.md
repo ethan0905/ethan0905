@@ -58,8 +58,6 @@
 | **[CPP-Module-08](https://github.com/ethan0905/CPP-Module-08)** | <img src="https://badge42.vercel.app/api/v2/cl6l739qg00490gialxmtgsrk/project/2714679"/> | **[Inception](https://github.com/ethan0905/Inception)** | <img src="https://badge42.vercel.app/api/v2/cl6l739qg00490gialxmtgsrk/project/2823952"/> |
 
 <p>
-
-
 	<h3>CPP-Module-05:
 	<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl6l739qg00490gialxmtgsrk/project/2700616" alt="esafar's 42 CPP Module 05 Score" /></a>
 	</h3>
