@@ -41,7 +41,7 @@
 
 ## :white_check_mark: 42 Grades  
 
-
+<p align="center">
 | **[Libft](https://github.com/ethan0905/Libft)** | <img src="https://badge42.vercel.app/api/v2/cl6l739qg00490gialxmtgsrk/project/2177512"/> | **[get_next_line](https://github.com/ethan0905/get_next_line)** | <img src="https://badge42.vercel.app/api/v2/cl6l739qg00490gialxmtgsrk/project/2191489"/> |
 | :------------: | :------------: | :------------: | :------------: |
 | **[Born2beRoot]()** | <img src="https://badge42.vercel.app/api/v2/cl6l739qg00490gialxmtgsrk/project/2202762"/> | **[ft_printf](https://github.com/ethan0905/ft_printf)** | <img src="https://badge42.vercel.app/api/v2/cl6l739qg00490gialxmtgsrk/project/2244897"/> |
@@ -54,3 +54,4 @@
 | **[CPP-Module-04](https://github.com/ethan0905/CPP-Module-04)** | <img src="https://badge42.vercel.app/api/v2/cl6l739qg00490gialxmtgsrk/project/2695137"/> | **[CPP-Module-05](https://github.com/ethan0905/CPP-Module-05)** | <img src="https://badge42.vercel.app/api/v2/cl6l739qg00490gialxmtgsrk/project/2700616"/> |
 | **[CPP-Module-06](https://github.com/ethan0905/CPP-Module-06)** | <img src="https://badge42.vercel.app/api/v2/cl6l739qg00490gialxmtgsrk/project/2713844"/> | **[CPP-Module-07](https://github.com/ethan0905/CPP-Module-07)** | <img src="https://badge42.vercel.app/api/v2/cl6l739qg00490gialxmtgsrk/project/2714402"/> |
 | **[CPP-Module-08](https://github.com/ethan0905/CPP-Module-08)** | <img src="https://badge42.vercel.app/api/v2/cl6l739qg00490gialxmtgsrk/project/2714679"/> | **[Inception](https://github.com/ethan0905/Inception)** | <img src="https://badge42.vercel.app/api/v2/cl6l739qg00490gialxmtgsrk/project/2823952"/> |
+</p>
