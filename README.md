@@ -39,9 +39,7 @@
 	</a>
 </p>
 
-## :white_check_mark: 42 Grades (newest on top)
-
-
+## :white_check_mark: 42 Grades  
 
 
 | **[Libft](https://github.com/ethan0905/Libft)** | <img src="https://badge42.vercel.app/api/v2/cl6l739qg00490gialxmtgsrk/project/2177512"/> | **[get_next_line](https://github.com/ethan0905/get_next_line)** | <img src="https://badge42.vercel.app/api/v2/cl6l739qg00490gialxmtgsrk/project/2191489"/> |
