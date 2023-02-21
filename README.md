@@ -27,6 +27,8 @@
 	</a>
 </p>
 
+![test](https://komarev.com/ghpvc/?username=ethan0905&color=dc143c)
+
 ## ⭐ Streak
 
 <p align="center">
