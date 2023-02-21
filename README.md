@@ -27,7 +27,7 @@
 	</a>
 </p>
 
-![test](https://komarev.com/ghpvc/?username=ethan0905&color=dc143c)
+![](https://komarev.com/ghpvc/?username=ethan0905&color=3467cf)
 
 ## ⭐ Streak
 
